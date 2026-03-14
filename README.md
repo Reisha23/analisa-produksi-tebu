@@ -1,10 +1,9 @@
-# 📊 [Nama Project Kamu]
+# 📊 [sugarcane-production-analysis]
 
-Deskripsi singkat project ini tentang apa.
+Analisis & Prediksi Produksi Tebu dalam 10 tahun kedepan menggunakan metode SARIMA.
 
 ## 🎯 Tujuan
-- Apa yang ingin dijawab dari data ini?
-- Contoh: "Menganalisis faktor apa yang mempengaruhi keselamatan penumpang Titanic"
+Eksplorasi data historis produksi tebu Indonesia dan prediksi produksi beberapa tahun ke depan.
 
 ## 📁 Struktur Project
 \```
@@ -41,8 +40,5 @@ pip install -r requirements.txt
 jupyter notebook
 \```
 
-## 📈 Hasil & Insight
-(Isi setelah analisis selesai)
-
 ## 👤 Author
-Reisha — [GitHub](https://github.com/username)
+Reisha — [GitHub](https://github.com/Reisha23)
