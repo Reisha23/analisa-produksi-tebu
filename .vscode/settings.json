@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "/home/reisha/portofolio-data-analyst/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.filter": [],
+    "jupyter.jupyterServerType": "local",
+    "terminal.integrated.env.linux": {
+        "VIRTUAL_ENV": "/home/reisha/portofolio-data-analyst/.venv",
+        "PATH": "/home/reisha/portofolio-data-analyst/.venv/bin:${env:PATH}"
+    }
+}
